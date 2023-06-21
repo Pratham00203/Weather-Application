@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Documents\C#\Weather App\Weather App\obj\Debug\Weather App.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Documents\C#\Weather App\Weather App\obj\Debug\Weather App.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Documents\C#\Weather App\Weather App\obj\Debug\Weather_App.Properties.Resources.resources
+C:\Users\User\OneDrive\Documents\C#\Weather App\Weather App\obj\Debug\Weather App.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Documents\C#\Weather App\Weather App\obj\Debug\Weather App.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\C#\Weather App\Weather App\bin\Debug\Weather App.exe.config
+C:\Users\User\OneDrive\Documents\C#\Weather App\Weather App\bin\Debug\Weather App.exe
+C:\Users\User\OneDrive\Documents\C#\Weather App\Weather App\bin\Debug\Weather App.pdb
+C:\Users\User\OneDrive\Documents\C#\Weather App\Weather App\obj\Debug\Weather App.exe
+C:\Users\User\OneDrive\Documents\C#\Weather App\Weather App\obj\Debug\Weather App.pdb
+C:\Users\User\OneDrive\Documents\C#\Weather App\Weather App\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\OneDrive\Documents\C#\Weather App\Weather App\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\OneDrive\Documents\C#\Weather App\Weather App\obj\Debug\Weather App.csproj.CopyComplete
+C:\Users\User\OneDrive\Documents\C#\Weather App\Weather App\obj\Debug\Weather_App.Form1.resources
